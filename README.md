@@ -1,0 +1,1 @@
+# Change-detection-using-comparagram-of-images-under-varying-illumination
